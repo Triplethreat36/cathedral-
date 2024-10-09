@@ -1,0 +1,88 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\Fussy\OneDrive\Desktop\quake-leveldesign-starterkit-20240930-windows\cathedral-\cathedral-.map
+Output file: C:\Users\Fussy\OneDrive\Desktop\quake-leveldesign-starterkit-20240930-windows\cathedral-\cathedral-.bsp
+
+INFO: using built-in palette.
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \Q
+      2 entities
+      5 unique textures
+     35 texinfos
+    184 unique planes
+
+INFO: world extents calculated to 4872 units
+     63 brushes
+    376 sides
+      6 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    63 SOLID brushes
+    63 brushes total
+    376 visible sides
+INFO: calculating BSP for 63 brushes with 376 sides
+     63 brushes
+    376 visible faces
+    762 nodes
+    652 expensive split nodes
+    110 mid-split nodes
+    763 leaves
+    332 EMPTY leafs
+    431 SOLID leafs
+    763 leafs total
+    17 max tree height
+    12 avg tree height
+    3,190 tree portals
+WARNING: Reached occupant "info_player_start" at (-16 -48 40), no filling performed.
+Leak file written to cathedral-.pts
+            7 portals written to cathedral-.leak.prt
+    3,190 tree portals
+    977 sides visible
+      977 makefaces
+      199 merged
+    1,663 subdivided
+    111 nodes pruned
+    332 EMPTY leafs
+    320 SOLID leafs
+    652 leafs total
+    17 max tree height
+    11 avg tree height
+    1,215 edges added by tjunctions
+    2,432 faces optimized through MWT
+    6,087 triangles computed from MWT
+      216 faces created via optimization of MWT triangles
+    5,730 edges
+    2,657 faces
+Processing hull 1...
+WARNING: Reached occupant "info_player_start" at (-16 -48 40), no filling performed.
+Processing hull 2...
+WARNING: Reached occupant "info_player_start" at (-16 -48 40), no filling performed.
+Writing cathedral-.bsp as Quake BSP bsp29
+Wrote cathedral-.bsp
+
+count   lump name    byte size 
+      1 models               64
+    222 planes             4440
+   2958 vertexes          35496
+    651 nodes             15624
+     32 texinfos           1280
+   2657 faces             53140
+   4290 clipnodes         34320
+    333 leafs              9324
+   2756 marksurfaces       5512
+   5731 edges             22924
+  11410 surfedges         45640
+      5 textures          21944
+        lightdata             0
+        visdata               0
+        entdata             173
+
+0.050s seconds elapsed
+
+
