@@ -11,83 +11,85 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \.
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \w
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
-     65 entities
-     11 unique textures
-     73 texinfos
-    966 unique planes
+       66 entities
+       18 unique textures
+      112 texinfos
+    1,350 unique planes
 
 INFO: world extents calculated to 10472 units
-      157 brushes
-    1,034 sides
-       69 side bevels
+      356 brushes
+    2,260 sides
+       84 side bevels
 
             0 texture frames added
 WARNING: unable to find texture __TB_empty
 Processing hull 0...
-    149 SOLID brushes
-    149 brushes total
-    986 visible sides
-INFO: calculating BSP for 149 brushes with 986 sides
-    149 brushes
-    980 visible faces
-      6 non-visible faces
-    3,217 nodes
-       13 non-visible nodes
-    2,302 expensive split nodes
-      915 mid-split nodes
-    3,218 leaves
-    1,348 EMPTY leafs
-    1,870 SOLID leafs
-    3,218 leafs total
+    348 SOLID brushes
+    348 brushes total
+    2,212 visible sides
+INFO: calculating BSP for 348 brushes with 2212 sides
+      348 brushes
+    2,188 visible faces
+       24 non-visible faces
+    13,839 nodes
+        69 non-visible nodes
+     9,895 expensive split nodes
+     3,944 mid-split nodes
+    13,840 leaves
+     6,339 EMPTY leafs
+     7,501 SOLID leafs
+    13,840 leafs total
     28 max tree height
-    15 avg tree height
-    8 tiny portals
-    13,838 tree portals
+    18 avg tree height
+    72 tiny portals
+    54,065 tree portals
 WARNING: Reached occupant "info_player_deathmatch" at (-1341.68 392.738 512.471), no filling performed.
 Leak file written to cathedral-.pts
             8 portals written to cathedral-.leak.prt
-    8 tiny portals
-    13,838 tree portals
-    3,835 sides visible
-    3,835 makefaces
-      757 merged
-    6,040 subdivided
-    694 nodes pruned
-    1,348 EMPTY leafs
-    1,176 SOLID leafs
-    2,524 leafs total
-    28 max tree height
-    15 avg tree height
-     5,556 edges added by tjunctions
-     8,937 faces optimized through MWT
-    23,208 triangles computed from MWT
-       978 faces created via optimization of MWT triangles
-    21,802 edges
-    10,087 faces
+    72 tiny portals
+    54,065 tree portals
+    15,419 sides visible
+    15,419 makefaces
+     2,490 merged
+     7,408 subdivided
+    1,558 nodes pruned
+     6,339 EMPTY leafs
+     5,943 SOLID leafs
+    12,282 leafs total
+    26 max tree height
+    17 avg tree height
+    10,370 edges added by tjunctions
+    20,002 faces optimized through MWT
+    50,147 triangles computed from MWT
+     2,250 faces created via optimization of MWT triangles
+    48,602 edges
+    22,537 faces
 Processing hull 1...
 WARNING: Reached occupant "info_teleport_destination" at (4235.91 764.919 453.686), no filling performed.
 Processing hull 2...
 WARNING: Reached occupant "info_teleport_destination" at (4235.91 764.919 453.686), no filling performed.
-Writing cathedral-.bsp as Quake BSP bsp29
+LIMITS EXCEEDED ON dclipnode_t::children
+NOTE: limits exceeded for Quake BSP - switching to Quake BSP2
+Writing cathedral-.bsp as Quake BSP2 bsp2
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
       9 models              576
-   1561 planes            31220
-  11651 vertexes         139812
-   2571 nodes             61704
-     65 texinfos           2600
-  10149 faces            202980
-  15239 clipnodes        121912
-   1405 leafs             39340
-  10776 marksurfaces      21552
-  21929 edges             87716
-  43806 surfedges        175224
-     11 textures         201728
+   1921 planes            38420
+  24356 vertexes         292272
+  12329 nodes            542476
+    100 texinfos           4000
+  22599 faces            632772
+  73091 clipnodes        877092
+   6396 leafs            281424
+  25687 marksurfaces     102748
+  48729 edges            389832
+  95758 surfedges        383032
+     18 textures         272756
         lightdata             0
         visdata               0
-        entdata            4855
+        entdata            4915
 
-0.200s seconds elapsed
+0.768s seconds elapsed
 
 
