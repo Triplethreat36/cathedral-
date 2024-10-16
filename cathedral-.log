@@ -11,83 +11,83 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \.
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \w
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
-     67 entities
-     10 unique textures
-     67 texinfos
-    912 unique planes
+     65 entities
+     11 unique textures
+     73 texinfos
+    966 unique planes
 
-INFO: world extents calculated to 8088 units
-    146 brushes
-    968 sides
-     69 side bevels
+INFO: world extents calculated to 10472 units
+      157 brushes
+    1,034 sides
+       69 side bevels
 
             0 texture frames added
 WARNING: unable to find texture __TB_empty
 Processing hull 0...
-    138 SOLID brushes
-    138 brushes total
-    920 visible sides
-INFO: calculating BSP for 138 brushes with 920 sides
-    138 brushes
-    914 visible faces
+    149 SOLID brushes
+    149 brushes total
+    986 visible sides
+INFO: calculating BSP for 149 brushes with 986 sides
+    149 brushes
+    980 visible faces
       6 non-visible faces
-    2,484 nodes
+    3,217 nodes
        13 non-visible nodes
-    2,224 expensive split nodes
-      260 mid-split nodes
-    2,485 leaves
-    1,055 EMPTY leafs
-    1,430 SOLID leafs
-    2,485 leafs total
-    29 max tree height
+    2,302 expensive split nodes
+      915 mid-split nodes
+    3,218 leaves
+    1,348 EMPTY leafs
+    1,870 SOLID leafs
+    3,218 leafs total
+    28 max tree height
     15 avg tree height
-    21 tiny portals
-    10,616 tree portals
-WARNING: Reached occupant "info_player_deathmatch" at (-1417.49 462.647 494.379), no filling performed.
+    8 tiny portals
+    13,838 tree portals
+WARNING: Reached occupant "info_player_deathmatch" at (-1341.68 392.738 512.471), no filling performed.
 Leak file written to cathedral-.pts
             8 portals written to cathedral-.leak.prt
-    21 tiny portals
-    10,616 tree portals
-    3,061 sides visible
-    3,061 makefaces
-      488 merged
-    4,979 subdivided
-    511 nodes pruned
-    1,055 EMPTY leafs
-      919 SOLID leafs
-    1,974 leafs total
-    29 max tree height
+    8 tiny portals
+    13,838 tree portals
+    3,835 sides visible
+    3,835 makefaces
+      757 merged
+    6,040 subdivided
+    694 nodes pruned
+    1,348 EMPTY leafs
+    1,176 SOLID leafs
+    2,524 leafs total
+    28 max tree height
     15 avg tree height
-     4,809 edges added by tjunctions
-     7,370 faces optimized through MWT
-    19,335 triangles computed from MWT
-       861 faces created via optimization of MWT triangles
-    18,186 edges
-     8,404 faces
+     5,556 edges added by tjunctions
+     8,937 faces optimized through MWT
+    23,208 triangles computed from MWT
+       978 faces created via optimization of MWT triangles
+    21,802 edges
+    10,087 faces
 Processing hull 1...
-WARNING: Reached occupant "info_teleport_destination" at (3198.95 822.549 436.607), no filling performed.
+WARNING: Reached occupant "info_teleport_destination" at (4235.91 764.919 453.686), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "info_teleport_destination" at (3198.95 822.549 436.607), no filling performed.
+WARNING: Reached occupant "info_teleport_destination" at (4235.91 764.919 453.686), no filling performed.
 Writing cathedral-.bsp as Quake BSP bsp29
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
       9 models              576
-   1486 planes            29720
-   9702 vertexes         116424
-   2021 nodes             48504
-     60 texinfos           2400
-   8460 faces            169200
-  14864 clipnodes        118912
-   1112 leafs             31136
-   9032 marksurfaces      18064
-  18299 edges             73196
-  36540 surfedges        146160
-     10 textures         179924
+   1561 planes            31220
+  11651 vertexes         139812
+   2571 nodes             61704
+     65 texinfos           2600
+  10149 faces            202980
+  15239 clipnodes        121912
+   1405 leafs             39340
+  10776 marksurfaces      21552
+  21929 edges             87716
+  43806 surfedges        175224
+     11 textures         201728
         lightdata             0
         visdata               0
-        entdata            5002
+        entdata            4855
 
-0.355s seconds elapsed
+0.200s seconds elapsed
 
 
