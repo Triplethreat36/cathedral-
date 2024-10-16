@@ -12,79 +12,82 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \w
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
      67 entities
-      9 unique textures
-     64 texinfos
-    906 unique planes
+     10 unique textures
+     67 texinfos
+    912 unique planes
 
 INFO: world extents calculated to 8088 units
-    145 brushes
-    962 sides
+    146 brushes
+    968 sides
      69 side bevels
 
             0 texture frames added
+WARNING: unable to find texture __TB_empty
 Processing hull 0...
-    137 SOLID brushes
-    137 brushes total
-    914 visible sides
-INFO: calculating BSP for 137 brushes with 914 sides
-    137 brushes
+    138 SOLID brushes
+    138 brushes total
+    920 visible sides
+INFO: calculating BSP for 138 brushes with 920 sides
+    138 brushes
     914 visible faces
-    2,620 nodes
-    2,080 expensive split nodes
-      540 mid-split nodes
-    2,621 leaves
-    1,113 EMPTY leafs
-    1,508 SOLID leafs
-    2,621 leafs total
+      6 non-visible faces
+    2,484 nodes
+       13 non-visible nodes
+    2,224 expensive split nodes
+      260 mid-split nodes
+    2,485 leaves
+    1,055 EMPTY leafs
+    1,430 SOLID leafs
+    2,485 leafs total
     29 max tree height
     15 avg tree height
-    22 tiny portals
-    11,179 tree portals
-WARNING: Reached occupant "info_player_deathmatch" at (-2000 240 552), no filling performed.
+    21 tiny portals
+    10,616 tree portals
+WARNING: Reached occupant "info_player_deathmatch" at (-1417.49 462.647 494.379), no filling performed.
 Leak file written to cathedral-.pts
             8 portals written to cathedral-.leak.prt
-    22 tiny portals
-    11,179 tree portals
-    3,244 sides visible
-    3,244 makefaces
-      579 merged
-    6,018 subdivided
-    518 nodes pruned
-    1,113 EMPTY leafs
-      990 SOLID leafs
-    2,103 leafs total
+    21 tiny portals
+    10,616 tree portals
+    3,061 sides visible
+    3,061 makefaces
+      488 merged
+    4,979 subdivided
+    511 nodes pruned
+    1,055 EMPTY leafs
+      919 SOLID leafs
+    1,974 leafs total
     29 max tree height
     15 avg tree height
-     5,219 edges added by tjunctions
-     8,530 faces optimized through MWT
-    22,045 triangles computed from MWT
-       889 faces created via optimization of MWT triangles
-    20,693 edges
-     9,572 faces
+     4,809 edges added by tjunctions
+     7,370 faces optimized through MWT
+    19,335 triangles computed from MWT
+       861 faces created via optimization of MWT triangles
+    18,186 edges
+     8,404 faces
 Processing hull 1...
-WARNING: Reached occupant "info_player_deathmatch" at (-2000 240 552), no filling performed.
+WARNING: Reached occupant "info_teleport_destination" at (3198.95 822.549 436.607), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "info_player_deathmatch" at (-2000 240 552), no filling performed.
+WARNING: Reached occupant "info_teleport_destination" at (3198.95 822.549 436.607), no filling performed.
 Writing cathedral-.bsp as Quake BSP bsp29
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
       9 models              576
-   1317 planes            26340
-  11057 vertexes         132684
-   2150 nodes             51600
+   1486 planes            29720
+   9702 vertexes         116424
+   2021 nodes             48504
      60 texinfos           2400
-   9634 faces            192680
-  14172 clipnodes        113376
-   1170 leafs             32760
-  10256 marksurfaces      20512
-  20820 edges             83280
-  41594 surfedges        166376
-      9 textures         179920
+   8460 faces            169200
+  14864 clipnodes        118912
+   1112 leafs             31136
+   9032 marksurfaces      18064
+  18299 edges             73196
+  36540 surfedges        146160
+     10 textures         179924
         lightdata             0
         visdata               0
-        entdata            4162
+        entdata            5002
 
-0.194s seconds elapsed
+0.355s seconds elapsed
 
 
