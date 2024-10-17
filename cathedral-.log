@@ -32,41 +32,41 @@ INFO: calculating BSP for 428 brushes with 2689 sides
       428 brushes
     2,683 visible faces
         6 non-visible faces
-    24,025 nodes
+    24,170 nodes
          4 non-visible nodes
-    13,606 expensive split nodes
-    10,419 mid-split nodes
-    24,026 leaves
-     9,837 EMPTY leafs
-     1,887 SKY leafs
-    12,302 SOLID leafs
-    24,026 leafs total
+    13,778 expensive split nodes
+    10,392 mid-split nodes
+    24,171 leaves
+     9,831 EMPTY leafs
+     1,874 SKY leafs
+    12,466 SOLID leafs
+    24,171 leafs total
     33 max tree height
     20 avg tree height
     65 tiny portals
-    90,998 tree portals
+    91,524 tree portals
 WARNING: Reached occupant "info_player_deathmatch" at (-1341.68 392.738 512.471), no filling performed.
 Leak file written to cathedral-.pts
            16 portals written to cathedral-.leak.prt
     65 tiny portals
-    90,998 tree portals
-    23,814 sides visible
-    23,814 makefaces
-     3,647 merged
-    10,547 subdivided
-    4,219 nodes pruned
-     9,837 EMPTY leafs
-     1,887 SKY leafs
-     8,083 SOLID leafs
-    19,807 leafs total
+    91,524 tree portals
+    23,812 sides visible
+    23,812 makefaces
+     3,678 merged
+    10,544 subdivided
+    4,339 nodes pruned
+     9,831 EMPTY leafs
+     1,874 SKY leafs
+     8,127 SOLID leafs
+    19,832 leafs total
     33 max tree height
     20 avg tree height
-    13,988 edges added by tjunctions
-    30,337 faces optimized through MWT
-    74,488 triangles computed from MWT
-     2,753 faces created via optimization of MWT triangles
-    70,931 edges
-    33,458 faces
+    14,002 edges added by tjunctions
+    30,301 faces optimized through MWT
+    74,430 triangles computed from MWT
+     2,746 faces created via optimization of MWT triangles
+    70,859 edges
+    33,415 faces
 Processing hull 1...
 WARNING: Reached occupant "info_player_start" at (-235.533 814.355 825.882), no filling performed.
 Processing hull 2...
@@ -79,20 +79,20 @@ Wrote cathedral-.bsp
 count   lump name    byte size 
       9 models              576
    2180 planes            43600
-  37269 vertexes         447228
-  19854 nodes            873576
-    178 texinfos           7120
-  33520 faces            938560
-  84686 clipnodes       1016232
-  11781 leafs            518364
-  35840 marksurfaces     143360
-  71058 edges            568464
- 142024 surfedges        568096
+  37242 vertexes         446904
+  19879 nodes            874676
+    177 texinfos           7080
+  33477 faces            937356
+  84565 clipnodes       1014780
+  11762 leafs            517528
+  35817 marksurfaces     143268
+  70986 edges            567888
+ 141880 surfedges        567520
      28 textures         414636
         lightdata             0
         visdata               0
         entdata            4805
 
-1.128s seconds elapsed
+1.030s seconds elapsed
 
 
