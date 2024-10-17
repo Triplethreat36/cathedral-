@@ -7,63 +7,66 @@ Input file: C:\Users\Fussy\OneDrive\Desktop\quake-leveldesign-starterkit-2024093
 Output file: C:\Users\Fussy\OneDrive\Desktop\quake-leveldesign-starterkit-20240930-windows\cathedral-\cathedral-.bsp
 
 INFO: using built-in palette.
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \.
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \w
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
        65 entities
-       25 unique textures
-      179 texinfos
-    1,596 unique planes
+       28 unique textures
+      197 texinfos
+    1,650 unique planes
 
-INFO: world extents calculated to 10472 units
-      459 brushes
-    2,875 sides
+INFO: world extents calculated to 18120 units
+      436 brushes
+    2,737 sides
       115 side bevels
 
             0 texture frames added
 WARNING: unable to find texture __TB_empty
 Processing hull 0...
-    451 SOLID brushes
-    451 brushes total
-    2,827 visible sides
-INFO: calculating BSP for 451 brushes with 2827 sides
-      451 brushes
-    2,803 visible faces
-       24 non-visible faces
-    20,662 nodes
-        56 non-visible nodes
-    14,391 expensive split nodes
-     6,271 mid-split nodes
-    20,663 leaves
-     8,461 EMPTY leafs
-    12,202 SOLID leafs
-    20,663 leafs total
-    30 max tree height
-    19 avg tree height
-    36 tiny portals
-    79,699 tree portals
+    423 SOLID brushes
+      5 SKY brushes
+    428 brushes total
+    2,689 visible sides
+INFO: calculating BSP for 428 brushes with 2689 sides
+      428 brushes
+    2,683 visible faces
+        6 non-visible faces
+    24,025 nodes
+         4 non-visible nodes
+    13,606 expensive split nodes
+    10,419 mid-split nodes
+    24,026 leaves
+     9,837 EMPTY leafs
+     1,887 SKY leafs
+    12,302 SOLID leafs
+    24,026 leafs total
+    33 max tree height
+    20 avg tree height
+    65 tiny portals
+    90,998 tree portals
 WARNING: Reached occupant "info_player_deathmatch" at (-1341.68 392.738 512.471), no filling performed.
 Leak file written to cathedral-.pts
-            6 portals written to cathedral-.leak.prt
-    36 tiny portals
-    79,699 tree portals
-    20,787 sides visible
-    20,787 makefaces
-     3,429 merged
-     9,354 subdivided
-    2,841 nodes pruned
-     8,461 EMPTY leafs
-     9,361 SOLID leafs
-    17,822 leafs total
-    29 max tree height
-    18 avg tree height
-    13,174 edges added by tjunctions
-    26,296 faces optimized through MWT
-    65,589 triangles computed from MWT
-     2,717 faces created via optimization of MWT triangles
-    62,408 edges
-    29,385 faces
+           16 portals written to cathedral-.leak.prt
+    65 tiny portals
+    90,998 tree portals
+    23,814 sides visible
+    23,814 makefaces
+     3,647 merged
+    10,547 subdivided
+    4,219 nodes pruned
+     9,837 EMPTY leafs
+     1,887 SKY leafs
+     8,083 SOLID leafs
+    19,807 leafs total
+    33 max tree height
+    20 avg tree height
+    13,988 edges added by tjunctions
+    30,337 faces optimized through MWT
+    74,488 triangles computed from MWT
+     2,753 faces created via optimization of MWT triangles
+    70,931 edges
+    33,458 faces
 Processing hull 1...
 WARNING: Reached occupant "info_player_start" at (-235.533 814.355 825.882), no filling performed.
 Processing hull 2...
@@ -75,21 +78,21 @@ Wrote cathedral-.bsp
 
 count   lump name    byte size 
       9 models              576
-   2109 planes            42180
-  32832 vertexes         393984
-  17869 nodes            786236
-    161 texinfos           6440
-  29447 faces            824516
- 108016 clipnodes       1296192
-   8518 leafs            374792
-  33231 marksurfaces     132924
-  62535 edges            500280
- 124983 surfedges        499932
-     25 textures         327464
+   2180 planes            43600
+  37269 vertexes         447228
+  19854 nodes            873576
+    178 texinfos           7120
+  33520 faces            938560
+  84686 clipnodes       1016232
+  11781 leafs            518364
+  35840 marksurfaces     143360
+  71058 edges            568464
+ 142024 surfedges        568096
+     28 textures         414636
         lightdata             0
         visdata               0
-        entdata            4808
+        entdata            4805
 
-1.124s seconds elapsed
+1.128s seconds elapsed
 
 
