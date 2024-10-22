@@ -11,88 +11,105 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
-       66 entities
-       28 unique textures
-      197 texinfos
-    1,656 unique planes
+       94 entities
+       29 unique textures
+      204 texinfos
+    1,924 unique planes
 
-INFO: world extents calculated to 18120 units
-      437 brushes
-    2,743 sides
-      115 side bevels
+INFO: world extents calculated to 8360 units
+      543 brushes
+    3,377 sides
+      121 side bevels
 
             0 texture frames added
 WARNING: unable to find texture __TB_empty
 Processing hull 0...
-    424 SOLID brushes
-      5 SKY brushes
-    429 brushes total
-    2,695 visible sides
-INFO: calculating BSP for 429 brushes with 2695 sides
-      429 brushes
-    2,689 visible faces
+    529 SOLID brushes
+      6 SKY brushes
+    535 brushes total
+    3,329 visible sides
+INFO: calculating BSP for 535 brushes with 3329 sides
+      535 brushes
+    3,323 visible faces
         6 non-visible faces
-    24,239 nodes
-         4 non-visible nodes
-    13,769 expensive split nodes
-    10,470 mid-split nodes
-    24,240 leaves
-     9,897 EMPTY leafs
-     1,894 SKY leafs
-    12,449 SOLID leafs
-    24,240 leafs total
-    33 max tree height
+    22,128 nodes
+         8 non-visible nodes
+    16,562 expensive split nodes
+     5,566 mid-split nodes
+    22,129 leaves
+     9,364 EMPTY leafs
+     1,788 SKY leafs
+    10,977 SOLID leafs
+    22,129 leafs total
+    40 max tree height
     20 avg tree height
-    106 tiny portals
-    91,709 tree portals
-WARNING: Reached occupant "info_player_deathmatch" at (-1341.68 392.738 512.471), no filling performed.
-Leak file written to cathedral-.pts
-           16 portals written to cathedral-.leak.prt
-    106 tiny portals
-    91,709 tree portals
-    23,859 sides visible
-    23,859 makefaces
-     3,633 merged
-    10,540 subdivided
-    4,254 nodes pruned
-     9,897 EMPTY leafs
-     1,894 SKY leafs
-     8,195 SOLID leafs
-    19,986 leafs total
-    33 max tree height
-    20 avg tree height
-    14,033 edges added by tjunctions
-    30,366 faces optimized through MWT
-    74,619 triangles computed from MWT
-     2,761 faces created via optimization of MWT triangles
-    71,087 edges
-    33,518 faces
+    738 tiny portals
+    87,662 tree portals
+    1,831 outside leaves
+    0 detail filled leafs
+      535 brushes
+    2,457 visible faces
+      872 non-visible faces
+    7,105 nodes
+      927 non-visible nodes
+    7,105 expensive split nodes
+    7,106 leaves
+    2,412 EMPTY leafs
+      143 SKY leafs
+    4,551 SOLID leafs
+    7,106 leafs total
+    47 max tree height
+    31 avg tree height
+    217 tiny portals
+    31,891 tree portals
+    147 outside leaves
+    0 detail filled leafs
+    217 tiny portals
+    31,891 tree portals
+WARNING: 1 sides not found (use -verbose to display)
+    8,722 sides visible
+    8,722 makefaces
+    2,406 merged
+    7,277 subdivided
+    2,156 nodes pruned
+    40 tiny portals
+    2,408 player-occupiable leaves
+    2,408 clusters of leaves
+    8,069 vis portals
+    2,542 SOLID leafs
+      143 SKY leafs
+    2,265 EMPTY leafs
+    4,950 leafs total
+    46 max tree height
+    30 avg tree height
+    10,073 edges added by tjunctions
+    13,356 faces optimized through MWT
+    36,745 triangles computed from MWT
+     2,505 faces created via optimization of MWT triangles
+    34,626 edges
+    16,089 faces
 Processing hull 1...
-WARNING: Reached occupant "info_player_start" at (-235.533 814.355 825.882), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "info_player_start" at (-235.533 814.355 825.882), no filling performed.
-LIMITS EXCEEDED ON dclipnode_t::children
-NOTE: limits exceeded for Quake BSP - switching to Quake BSP2
-Writing cathedral-.bsp as Quake BSP2 bsp2
+Writing cathedral-.bsp as Quake BSP bsp29
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
       9 models              576
-   2182 planes            43640
-  37348 vertexes         448176
-  20033 nodes            881452
-    177 texinfos           7080
-  33580 faces            940240
-  84713 clipnodes       1016556
-  11848 leafs            521312
-  35853 marksurfaces     143412
-  71214 edges            569712
- 142298 surfedges        569192
-     28 textures         414636
+   2695 planes            53900
+  18364 vertexes         220368
+   4997 nodes            119928
+    189 texinfos           7560
+  16145 faces            322900
+  12169 clipnodes         97352
+   2465 leafs             69020
+  17602 marksurfaces      35204
+  34739 edges            138956
+  69375 surfedges        277500
+     29 textures         436440
         lightdata             0
         visdata               0
-        entdata            4873
+        entdata            6728
 
-0.972s seconds elapsed
+1.847s seconds elapsed
 
 

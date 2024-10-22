@@ -6,30 +6,32 @@ img::ConvertTextures: WARNING: invalid size data for
 Loading extended texinfo flags from cathedral-.texinfo.json...
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \Q
-8 entities read, 0 are lights.
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
+94 entities read, 14 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
+    "light" was set to "1000.000000" (from map)
+    "sunlight" was set to "10.000000" (from map)
 
-DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	0 sky faces
-	4838 solid faces
+	48 sky faces
+	16041 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
-Final count: 0 lights, 0 suns in use.
+SetupLights: 14 initial lights
+SetupLights: 14 after surface lights
+SetupLights: 14 after jittering
+Final count: 14 lights, 1 suns in use.
 0 surface light points in use.
-lightmap size (total): 0
+lightmap size (total): 1152160
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing cathedral-.bsp as Quake BSP bsp29
-0.052s seconds elapsed
-0 empty lightmaps
+0.294s seconds elapsed
+95 empty lightmaps
 
 
