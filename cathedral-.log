@@ -31,83 +31,84 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \R
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \h
-      145 entities
-       33 unique textures
-      226 texinfos
-    2,030 unique planes
+      154 entities
+       35 unique textures
+      238 texinfos
+    2,220 unique planes
 
 INFO: world extents calculated to 8360 units
-      605 brushes
-    3,749 sides
-      121 side bevels
+      622 brushes
+    3,899 sides
+      145 side bevels
 
             0 texture frames added
 Processing hull 0...
-    589 SOLID brushes
-      2 WATER | Q2_UNUSED_8 brushes
+    598 SOLID brushes
+      6 WATER | Q2_UNUSED_8 brushes
       6 SKY brushes
-    597 brushes total
-    3,701 visible sides
-INFO: calculating BSP for 597 brushes with 3701 sides
-      597 brushes
-    3,701 visible faces
-    23,841 nodes
-    17,820 expensive split nodes
-     6,021 mid-split nodes
-    23,842 leaves
-         7 WATER | Q2_UNUSED_8 leafs
-    10,117 EMPTY leafs
-     1,940 SKY leafs
-    11,778 SOLID leafs
-    23,842 leafs total
-    40 max tree height
+    610 brushes total
+    3,827 visible sides
+INFO: calculating BSP for 610 brushes with 3827 sides
+      610 brushes
+    3,827 visible faces
+    25,051 nodes
+    18,442 expensive split nodes
+     6,609 mid-split nodes
+    25,052 leaves
+        21 WATER | Q2_UNUSED_8 leafs
+    10,389 EMPTY leafs
+     1,965 SKY leafs
+    12,677 SOLID leafs
+    25,052 leafs total
+    38 max tree height
     20 avg tree height
-    581 tiny portals
-    94,810 tree portals
-    1,982 outside leaves
+    694 tiny portals
+    98,557 tree portals
+    2,010 outside leaves
     0 detail filled leafs
-      597 brushes
-    2,735 visible faces
-      966 non-visible faces
-    7,466 nodes
-      967 non-visible nodes
-    7,466 expensive split nodes
-    7,467 leaves
-        2 WATER | Q2_UNUSED_8 leafs
-    2,565 EMPTY leafs
-      156 SKY leafs
-    4,744 SOLID leafs
-    7,467 leafs total
-    50 max tree height
-    29 avg tree height
-    325 tiny portals
-    33,416 tree portals
-    161 outside leaves
+      610 brushes
+    2,830 visible faces
+      997 non-visible faces
+    8,211 nodes
+    1,154 non-visible nodes
+    8,211 expensive split nodes
+    8,212 leaves
+        6 WATER | Q2_UNUSED_8 leafs
+    2,756 EMPTY leafs
+      250 SKY leafs
+    5,200 SOLID leafs
+    8,212 leafs total
+    46 max tree height
+    24 avg tree height
+    338 tiny portals
+    36,563 tree portals
+    255 outside leaves
     0 detail filled leafs
-    325 tiny portals
-    33,416 tree portals
-    9,298 sides visible
-    9,295 makefaces
-    2,485 merged
-    6,731 subdivided
-    2,212 nodes pruned
-    73 tiny portals
-    2,562 player-occupiable leaves
-    2,552 clusters of leaves
-    8,501 vis portals
-    2,693 SOLID leafs
-      156 SKY leafs
-        2 WATER | Q2_UNUSED_8 leafs
-    2,404 EMPTY leafs
-    5,255 leafs total
-    50 max tree height
-    27 avg tree height
-    10,122 edges added by tjunctions
-    13,303 faces optimized through MWT
-    36,692 triangles computed from MWT
-     2,606 faces created via optimization of MWT triangles
-    34,692 edges
-    16,147 faces
+    338 tiny portals
+    36,563 tree portals
+    9,841 sides visible
+    9,832 makefaces
+    2,640 merged
+    7,277 subdivided
+    2,501 nodes pruned
+    66 tiny portals
+    2,757 player-occupiable leaves
+    2,729 clusters of leaves
+    8,845 vis portals
+    2,954 SOLID leafs
+      250 SKY leafs
+        6 WATER | Q2_UNUSED_8 leafs
+    2,501 EMPTY leafs
+    5,711 leafs total
+    46 max tree height
+    23 avg tree height
+         2 edges degenerated
+    10,515 edges added by tjunctions
+    14,188 faces optimized through MWT
+    38,853 triangles computed from MWT
+     2,633 faces created via optimization of MWT triangles
+    36,750 edges
+    17,102 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 444 >= 127)
@@ -115,22 +116,22 @@ Writing cathedral-.bsp as Quake BSP bsp29
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
-      9 models              576
-   2766 planes            55320
-  18335 vertexes         220020
-   5302 nodes            127248
-    205 texinfos           8200
-  16203 faces            324060
-  13206 clipnodes        105648
-   2619 leafs             73332
-  17487 marksurfaces      34974
-  34805 edges            139220
-  69448 surfedges        277792
-     33 textures         338736
+     13 models              832
+   3009 planes            60180
+  19452 vertexes         233424
+   5782 nodes            138768
+    216 texinfos           8640
+  17182 faces            343640
+  14081 clipnodes        112648
+   2842 leafs             79576
+  18711 marksurfaces      37422
+  36911 edges            147644
+  73659 surfedges        294636
+     35 textures         360584
         lightdata             0
         visdata               0
-        entdata           10580
+        entdata           11310
 
-1.736s seconds elapsed
+1.775s seconds elapsed
 
 
