@@ -9,4 +9,5 @@ Prossece journal
 2. [blockout](blockout.2)
 3. [PlaystestResults](playstest)
 4. [Textures](Texturing.md)
-   
+5. [Lighting](https://github.com/Triplethreat36/cathedral-/blob/main/Lighting.md)
+
