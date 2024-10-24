@@ -1,3 +1,5 @@
+Immersion and theme
+
 My choice for textures are ment to give a cathedral theme. Green stone,stone wall, wooden floors, and a cross of gold.
 ![Screenshot 2024-10-23 212650](https://github.com/user-attachments/assets/600a28fa-ce77-4d9c-b124-edc043cdf833)
 ![Screenshot 2024-10-23 212705](https://github.com/user-attachments/assets/afa2b0c8-79ee-46a6-8e16-e6f29fa9d82a)
