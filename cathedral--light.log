@@ -2,38 +2,87 @@
 LoadBSPFile: 'cathedral-.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-img::ConvertTextures: WARNING: invalid size data for 
 Loading extended texinfo flags from cathedral-.texinfo.json...
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \k
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \R
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
-WARNING: entity at () (worldspawn) has empty key/value "light" ""
-WARNING: entity at (709.705 104 984) (light) has empty key/value "killtarget" ""
-WARNING: worldspawn key light has invalid value of ""
-149 entities read, 68 are lights.
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \R
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \k
+WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
+112 entities read, 15 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
+DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	57 sky faces
-	15919 solid faces
+	42 sky faces
+	20420 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 68 initial lights
-SetupLights: 68 after surface lights
-SetupLights: 68 after jittering
-WARNING: sun missing target, entity origin used.
-Final count: 68 lights, 2 suns in use.
+SetupLights: 15 initial lights
+SetupLights: 15 after surface lights
+SetupLights: 15 after jittering
+Final count: 15 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 524088
+lightmap size (total): 14460
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing cathedral-.bsp as Quake BSP bsp29
-0.264s seconds elapsed
+0.236s seconds elapsed
 0 empty lightmaps
 
 
