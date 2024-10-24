@@ -8,30 +8,32 @@ WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
-94 entities read, 14 are lights.
+WARNING: entity at () (worldspawn) has empty key/value "light" ""
+WARNING: entity at (709.705 104 984) (light) has empty key/value "killtarget" ""
+WARNING: worldspawn key light has invalid value of ""
+149 entities read, 68 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
-    "light" was set to "1000.000000" (from map)
-    "sunlight" was set to "10.000000" (from map)
 
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	48 sky faces
-	16041 solid faces
+	57 sky faces
+	15919 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 14 initial lights
-SetupLights: 14 after surface lights
-SetupLights: 14 after jittering
-Final count: 14 lights, 1 suns in use.
+SetupLights: 68 initial lights
+SetupLights: 68 after surface lights
+SetupLights: 68 after jittering
+WARNING: sun missing target, entity origin used.
+Final count: 68 lights, 2 suns in use.
 0 surface light points in use.
-lightmap size (total): 1152160
+lightmap size (total): 524088
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing cathedral-.bsp as Quake BSP bsp29
-0.294s seconds elapsed
-95 empty lightmaps
+0.264s seconds elapsed
+0 empty lightmaps
 
 
