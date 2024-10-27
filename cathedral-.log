@@ -9,33 +9,12 @@ Output file: C:\Users\Fussy\OneDrive\Desktop\quake-leveldesign-starterkit-202409
 INFO: using built-in palette.
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \k
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \a
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \a
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \R
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \h
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \p
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \a
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \h
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
@@ -51,126 +30,111 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \R
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \a
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \a
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
-WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \k
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\kdmtex.wad' not found
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\bdut_hr.wad' not found
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\axl3.wad' not found
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\artworks.wad' not found
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\RuneResized.wad' not found
-fs::addArchive: WARNING: archive '..\extras\quake\trenchbroom-quake-map-source\hexen.wad' not found
-      113 entities
-       35 unique textures
-      238 texinfos
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
+WARNING: cathedral-.map[line 6]: Unrecognised string escape - \h
+      185 entities
+       45 unique textures
+      298 texinfos
     2,234 unique planes
 
-INFO: world extents calculated to 8392 units
-      623 brushes
-    3,905 sides
+INFO: world extents calculated to 8488 units
+      653 brushes
+    4,085 sides
       145 side bevels
 
             0 texture frames added
 Processing hull 0...
-    603 SOLID brushes
+    629 SOLID brushes
       6 WATER | Q2_UNUSED_8 brushes
-      2 SKY brushes
-    611 brushes total
-    3,833 visible sides
-INFO: calculating BSP for 611 brushes with 3833 sides
-      611 brushes
-    3,833 visible faces
-    26,789 nodes
-    18,882 expensive split nodes
-     7,907 mid-split nodes
-    26,790 leaves
+      6 SKY brushes
+    641 brushes total
+    4,013 visible sides
+INFO: calculating BSP for 641 brushes with 4013 sides
+      641 brushes
+    4,013 visible faces
+    26,943 nodes
+    19,040 expensive split nodes
+     7,903 mid-split nodes
+    26,944 leaves
         21 WATER | Q2_UNUSED_8 leafs
-    12,035 EMPTY leafs
-    14,265 SOLID leafs
-       469 SKY leafs
-    26,790 leafs total
+    12,033 EMPTY leafs
+     1,757 SKY leafs
+    13,133 SOLID leafs
+    26,944 leafs total
     38 max tree height
     20 avg tree height
-    631 tiny portals
-    106,174 tree portals
-    1,803 outside leaves
+    596 tiny portals
+    106,607 tree portals
+    1,793 outside leaves
     0 detail filled leafs
-      611 brushes
-    2,833 visible faces
-    1,000 non-visible faces
-    8,276 nodes
-    1,200 non-visible nodes
-    8,276 expensive split nodes
-    8,277 leaves
+      641 brushes
+    2,873 visible faces
+    1,140 non-visible faces
+    8,428 nodes
+    1,348 non-visible nodes
+    8,428 expensive split nodes
+    8,429 leaves
         6 WATER | Q2_UNUSED_8 leafs
-    2,792 EMPTY leafs
-    5,455 SOLID leafs
-       24 SKY leafs
-    8,277 leafs total
-    46 max tree height
-    24 avg tree height
-    320 tiny portals
-    36,834 tree portals
-    283 outside leaves
-    0 detail filled leafs
-    320 tiny portals
-    36,834 tree portals
-WARNING: 2 sides not found (use -verbose to display)
-    9,846 sides visible
-     9,837 makefaces
-     2,635 merged
-    10,595 subdivided
-    2,865 nodes pruned
-    51 tiny portals
-    2,539 player-occupiable leaves
-    2,511 clusters of leaves
-    8,317 vis portals
-    2,873 SOLID leafs
-        6 WATER | Q2_UNUSED_8 leafs
-    2,509 EMPTY leafs
-       24 SKY leafs
-    5,412 leafs total
-    46 max tree height
+    2,851 EMPTY leafs
+    5,289 SOLID leafs
+      283 SKY leafs
+    8,429 leafs total
+    44 max tree height
     23 avg tree height
-         2 edges degenerated
-    11,371 edges added by tjunctions
-    17,517 faces optimized through MWT
-    46,366 triangles computed from MWT
-     2,721 faces created via optimization of MWT triangles
-    43,918 edges
-    20,518 faces
+    341 tiny portals
+    37,374 tree portals
+    307 outside leaves
+    0 detail filled leafs
+    341 tiny portals
+    37,374 tree portals
+    10,043 sides visible
+    10,032 makefaces
+     2,720 merged
+     7,598 subdivided
+    2,566 nodes pruned
+    51 tiny portals
+    2,833 player-occupiable leaves
+    2,805 clusters of leaves
+    9,024 vis portals
+    3,030 SOLID leafs
+      283 SKY leafs
+        6 WATER | Q2_UNUSED_8 leafs
+    2,544 EMPTY leafs
+    5,863 leafs total
+    43 max tree height
+    22 avg tree height
+    10,713 edges added by tjunctions
+    14,617 faces optimized through MWT
+    39,921 triangles computed from MWT
+     2,657 faces created via optimization of MWT triangles
+    37,769 edges
+    17,567 faces
 Processing hull 1...
 Processing hull 2...
-WARNING: worldspawn at 0 0 0 has long value for key wad (length 740 >= 127)
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 394 >= 127)
 Writing cathedral-.bsp as Quake BSP bsp29
 Wrote cathedral-.bsp
 
 count   lump name    byte size 
      13 models              832
-   3006 planes            60120
-  23204 vertexes         278448
-   5483 nodes            131592
-    212 texinfos           8480
-  20598 faces            411960
-  14023 clipnodes        112184
-   2624 leafs             73472
-  22417 marksurfaces      44834
-  44079 edges            176316
-  88003 surfedges        352012
-     35 textures         364616
+   2999 planes            59980
+  19972 vertexes         239664
+   5934 nodes            142416
+    257 texinfos          10280
+  17647 faces            352940
+  14075 clipnodes        112600
+   2918 leafs             81704
+  19278 marksurfaces      38556
+  37930 edges            151720
+  75668 surfedges        302672
+     45 textures         458912
         lightdata             0
         visdata               0
-        entdata            8682
+        entdata           13724
 
-1.872s seconds elapsed
+1.727s seconds elapsed
 
 

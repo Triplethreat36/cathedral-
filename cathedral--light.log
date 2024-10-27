@@ -5,33 +5,12 @@ INFO: using built-in palette.
 Loading extended texinfo flags from cathedral-.texinfo.json...
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \k
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \R
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \p
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
@@ -47,42 +26,35 @@ WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \R
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \a
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
-WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \k
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \e
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
+WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
-112 entities read, 15 are lights.
+184 entities read, 87 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
+    "light" was set to "100.000000" (from map)
 
-DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	42 sky faces
-	20420 solid faces
+	174 sky faces
+	17337 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 15 initial lights
-SetupLights: 15 after surface lights
-SetupLights: 15 after jittering
-Final count: 15 lights, 0 suns in use.
+SetupLights: 87 initial lights
+SetupLights: 87 after surface lights
+SetupLights: 87 after jittering
+Final count: 87 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 14460
+lightmap size (total): 1147008
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing cathedral-.bsp as Quake BSP bsp29
-0.236s seconds elapsed
-0 empty lightmaps
+0.312s seconds elapsed
+95 empty lightmaps
 
 
