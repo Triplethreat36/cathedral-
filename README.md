@@ -13,7 +13,8 @@ changes
 3.  More health to find
 
 The map is based on cathedral. it has 3 open areas the biggest is the center. There is teleporters on the 
-![Uploading Screenshot 2024-10-30 205941.png…]()
+
+[](Uploading Screenshot 2024-10-30 205941.png…)
 
 Map walkthrough
 
