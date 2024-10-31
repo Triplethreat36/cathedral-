@@ -1,4 +1,3 @@
-![Screenshot 2024-10-30 205941](https://github.com/user-attachments/assets/495fc55c-4db6-427a-94a2-ce508108094a)# cathedral-
 multiplayer player death match
 bellow is the development prosses
 
