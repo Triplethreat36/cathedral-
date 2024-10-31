@@ -13,8 +13,7 @@ changes
 
 The map is based on cathedral. it has 3 open areas the biggest is the center. There is teleporters on the 
 
-![Uploading Screenshot 2024-10-30 205941.png…](![Screenshot 2024-10-30 205941](https://github.com/user-attachments/assets/9c27e539-2865-4798-a225-8e468b5188dd)
-)
+![Screenshot 2024-10-30 205941](https://github.com/user-attachments/assets/a3e53cf8-9fcc-4f23-8681-12b35cf47b44)
 
 
 Map walkthrough
