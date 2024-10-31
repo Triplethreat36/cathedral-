@@ -15,6 +15,7 @@ changes
 The map is based on cathedral. it has 3 open areas the biggest is the center. There is teleporters on the 
 
 Map walkthrough
+
 [cathedral- map walkthrough](https://www.youtube.com/watch?v=YUQjebNbYy0)
 
 Prossece journal
