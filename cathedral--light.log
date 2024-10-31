@@ -32,7 +32,7 @@ WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \q
 WARNING: cathedral-.bsp[line 3]: Unrecognised string escape - \h
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
-184 entities read, 87 are lights.
+189 entities read, 87 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -41,7 +41,7 @@ WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	174 sky faces
-	17337 solid faces
+	17330 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 87 initial lights
@@ -49,7 +49,7 @@ SetupLights: 87 after surface lights
 SetupLights: 87 after jittering
 Final count: 87 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 1147008
+lightmap size (total): 1147368
 Lighting Completed.
 
 0 switchable light styles (32 max)

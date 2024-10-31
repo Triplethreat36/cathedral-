@@ -35,83 +35,83 @@ WARNING: cathedral-.map[line 6]: Unrecognised string escape - \e
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \q
 WARNING: cathedral-.map[line 6]: Unrecognised string escape - \h
-      185 entities
+      190 entities
        45 unique textures
       298 texinfos
-    2,234 unique planes
+    2,230 unique planes
 
 INFO: world extents calculated to 8488 units
-      653 brushes
-    4,085 sides
+      652 brushes
+    4,079 sides
       145 side bevels
 
             0 texture frames added
 Processing hull 0...
-    629 SOLID brushes
+    628 SOLID brushes
       6 WATER | Q2_UNUSED_8 brushes
       6 SKY brushes
-    641 brushes total
-    4,013 visible sides
-INFO: calculating BSP for 641 brushes with 4013 sides
-      641 brushes
-    4,013 visible faces
-    26,943 nodes
-    19,040 expensive split nodes
-     7,903 mid-split nodes
-    26,944 leaves
+    640 brushes total
+    4,007 visible sides
+INFO: calculating BSP for 640 brushes with 4007 sides
+      640 brushes
+    4,007 visible faces
+    26,892 nodes
+    19,011 expensive split nodes
+     7,881 mid-split nodes
+    26,893 leaves
         21 WATER | Q2_UNUSED_8 leafs
-    12,033 EMPTY leafs
-     1,757 SKY leafs
-    13,133 SOLID leafs
-    26,944 leafs total
+    12,011 EMPTY leafs
+     1,755 SKY leafs
+    13,106 SOLID leafs
+    26,893 leafs total
     38 max tree height
     20 avg tree height
     596 tiny portals
-    106,607 tree portals
-    1,793 outside leaves
+    106,404 tree portals
+    1,791 outside leaves
     0 detail filled leafs
-      641 brushes
-    2,873 visible faces
-    1,140 non-visible faces
-    8,428 nodes
-    1,348 non-visible nodes
-    8,428 expensive split nodes
-    8,429 leaves
+      640 brushes
+    2,868 visible faces
+    1,139 non-visible faces
+    8,417 nodes
+    1,347 non-visible nodes
+    8,417 expensive split nodes
+    8,418 leaves
         6 WATER | Q2_UNUSED_8 leafs
-    2,851 EMPTY leafs
-    5,289 SOLID leafs
+    2,846 EMPTY leafs
+    5,283 SOLID leafs
       283 SKY leafs
-    8,429 leafs total
+    8,418 leafs total
     44 max tree height
     23 avg tree height
     341 tiny portals
-    37,374 tree portals
+    37,322 tree portals
     307 outside leaves
     0 detail filled leafs
     341 tiny portals
-    37,374 tree portals
-    10,043 sides visible
-    10,032 makefaces
-     2,720 merged
+    37,322 tree portals
+    10,032 sides visible
+    10,021 makefaces
+     2,717 merged
      7,598 subdivided
     2,566 nodes pruned
     51 tiny portals
-    2,833 player-occupiable leaves
-    2,805 clusters of leaves
-    9,024 vis portals
-    3,030 SOLID leafs
+    2,828 player-occupiable leaves
+    2,800 clusters of leaves
+    9,001 vis portals
+    3,024 SOLID leafs
       283 SKY leafs
         6 WATER | Q2_UNUSED_8 leafs
-    2,544 EMPTY leafs
-    5,863 leafs total
+    2,539 EMPTY leafs
+    5,852 leafs total
     43 max tree height
     22 avg tree height
-    10,713 edges added by tjunctions
-    14,617 faces optimized through MWT
-    39,921 triangles computed from MWT
-     2,657 faces created via optimization of MWT triangles
-    37,769 edges
-    17,567 faces
+    10,705 edges added by tjunctions
+    14,609 faces optimized through MWT
+    39,897 triangles computed from MWT
+     2,658 faces created via optimization of MWT triangles
+    37,750 edges
+    17,560 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 394 >= 127)
@@ -120,21 +120,21 @@ Wrote cathedral-.bsp
 
 count   lump name    byte size 
      13 models              832
-   2999 planes            59980
-  19972 vertexes         239664
-   5934 nodes            142416
+   2994 planes            59880
+  19960 vertexes         239520
+   5923 nodes            142152
     257 texinfos          10280
-  17647 faces            352940
-  14075 clipnodes        112600
-   2918 leafs             81704
-  19278 marksurfaces      38556
-  37930 edges            151720
-  75668 surfedges        302672
+  17640 faces            352800
+  14049 clipnodes        112392
+   2913 leafs             81564
+  19268 marksurfaces      38536
+  37911 edges            151644
+  75630 surfedges        302520
      45 textures         458912
         lightdata             0
         visdata               0
-        entdata           13724
+        entdata           14004
 
-1.727s seconds elapsed
+1.781s seconds elapsed
 
 

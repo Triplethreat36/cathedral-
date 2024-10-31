@@ -6,17 +6,17 @@
 LoadBSPFile: 'cathedral-.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-  2833 leafs
-  2805 clusters
-  9024 portals
+  2828 leafs
+  2800 clusters
+  9001 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 563
+average leafs visible: 564
 c_noclip: 0
-c_chains: 274043537
-visdatasize:490618  compressed from 1005715
+c_chains: 272917408
+visdatasize:491169  compressed from 1001112
 Writing cathedral-.bsp as Quake BSP bsp29
-47.85s elapsed
+49.51s elapsed
 
 
